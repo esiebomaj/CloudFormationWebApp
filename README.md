@@ -4,4 +4,4 @@ In this project I deployed a web app to AWS using Cloudformation/Infrastructure-
 
 ## Architechture Diagram
 
-![Architechture Diagram](http://url/to/img.png)
+![Architechture Diagram](https://github.com/esiebomaj/CloudFormationWebApp/blob/master/architechure_diagram.png?raw=true)
